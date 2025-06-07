@@ -62,7 +62,7 @@ FROM appointments WHERE status = 'Completed';
 
 Below is an example output of average wait time per department:
 
-![Sample Output](images/department_wait_time.png)
+![Average Wait Time](images/avg_wait_time.png)
 
 ---
 ## ✅ Conclusion
