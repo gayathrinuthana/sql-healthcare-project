@@ -45,6 +45,7 @@ Analyze appointment wait times in a hospital to discover scheduling inefficienci
 ```sql
 SELECT ROUND(AVG(wait_time_minutes), 2) AS avg_wait_time 
 FROM appointments WHERE status = 'Completed';
+```
 
 ### 📸 Sample Output
 
